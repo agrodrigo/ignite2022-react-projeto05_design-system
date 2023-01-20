@@ -1,0 +1,2 @@
+import{A as t}from"./index-6a44a9c0.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/agrodrigo.png",alt:"Rodrigo Pinto Pereira"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-ff0bbea9.js.map
